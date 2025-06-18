@@ -13,7 +13,7 @@ I love building full-stack web apps, working on AI models, and experimenting wit
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-darkblue?style=for-the-badge&logo=python&logoColor=yellow)
-![C](https://img.shields.io/badge/black?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/-C-?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-darkgreen?style=for-the-badge&logo=nodedotjs)
