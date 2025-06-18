@@ -37,7 +37,7 @@ I love building full-stack web apps, working on AI models, and experimenting wit
 
 - 💻 [GitHub](https://github.com/hrutavmodha)
   
-- 📧 (modhahrutav@gmail.com)
+- 📧 modhahrutav@gmail.com
   
 ---
 
