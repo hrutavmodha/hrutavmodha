@@ -22,7 +22,7 @@ I love building full-stack web apps, working on AI models, and experimenting wit
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-purple?style=for-the-badge&logo=tailwind-css)
 ## 📊 GitHub Stats
 ![Hrutav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrutavmodha&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrutavmodha&layout=compact&theme=radical)
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=hrutavmodha&layout=compact&theme=radical)
 
 ## 📫 Connect With Me)
 - 💻 [GitHub](https://github.com/hrutavmodha)
