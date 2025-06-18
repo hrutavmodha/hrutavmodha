@@ -11,12 +11,12 @@ I love building full-stack web apps, working on AI models, and experimenting wit
 
 ## 🛠 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/-Express.js-gray?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![MongoDB](https://img.shields.io/badge/-MongoDB-lightgreen?style=for-the-badge&logo=mongodb)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-violet?style=for-the-badge&logo=tailwind-css)
 ## 📊 GitHub Stats
 ![Hrutav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrutavmodha&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrutavmodha&layout=compact&theme=radical)
