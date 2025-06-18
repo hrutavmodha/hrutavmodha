@@ -11,7 +11,7 @@ I love building full-stack web apps, working on AI models, and experimenting wit
 - 
 ## 💻 Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-darkblue?style=for-the-badge&logo=python&logoColor=yellow)
 ![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
