@@ -16,7 +16,7 @@ I love building full-stack web apps, working on AI models, and experimenting wit
 
 ## 📫 Connect With Me)
 - 💻 [GitHub](https://github.com/hrutavmodha)
-- 📧 [Email] (modhahrutav@gmail.com)
+- 📧 [Email](modhahrutav@gmail.com)
 ---
 
 > *“Code like a hacker, debug like a detective.”*
