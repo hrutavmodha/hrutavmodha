@@ -6,11 +6,9 @@ I'm a passionate and fast-moving developer currently pursuing a Diploma in Compu
 
 I love building full-stack web apps, working on AI models, and experimenting with cutting-edge tech.
 
-- 🌐 Currently working on: **Voice Assistant** and **E-Commerce Website**
+- 🌐 Currently working on: **DeskTop Assistant** and **E-Commerce Website**
   
-- 🤖 AI Interest: Trained multiple ML models including query classifiers and command-based bots
-  
-- 🌱 Learning: `Sci-kit Learn`
+- 🌱 Learning: *Data Analysis*
   
 - 💡 Fun Fact: I treat my development projects like experiments, not assignments.
   
@@ -38,7 +36,3 @@ I love building full-stack web apps, working on AI models, and experimenting wit
 - 💻 [GitHub](https://github.com/hrutavmodha)
   
 - 📧 modhahrutav@gmail.com
-  
----
-
-> *“Code like a hacker, debug like a detective.”*
