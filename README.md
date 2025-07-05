@@ -29,7 +29,13 @@ I love building full-stack web apps, working on AI models, and experimenting wit
 
 ![Hrutav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrutavmodha&show_icons=true&theme=radical)
 
+## 💬 Most Used Languages
+
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=hrutavmodha&layout=compact&theme=radical)
+
+## GitHub README streaks
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hrutavmodha)
 
 ## 📫 Connect With Me
 
