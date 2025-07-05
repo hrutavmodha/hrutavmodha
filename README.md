@@ -41,6 +41,11 @@ I love building full-stack web apps, working on AI models, and experimenting wit
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hrutavmodha)](https://github.com/ryo-ma/github-profile-trophy)
+
+##  📊 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=hrutavmodha&theme=github-compact)
+
 ## 📫 Connect With Me
 
 - 💻 [GitHub](https://github.com/hrutavmodha)
