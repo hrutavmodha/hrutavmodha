@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Hi+I'm+Hrutav+Modha;I'm+a+Full+Stack+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi+I'm+Hrutav+Modha;I'm+a+Full+Stack+Developer)](https://git.io/typing-svg)
 I'm a passionate and fast-moving developer currently pursuing a Diploma in Computer Engineering. 
 
 I love building full-stack web apps, working on AI models, and experimenting with cutting-edge tech.
