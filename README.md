@@ -42,9 +42,6 @@ I love building full-stack web apps, working on AI models, and experimenting wit
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hrutavmodha)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Contribution Snake
-
-![snake gif](https://github.com/hrutavmodha/hrutavmodha/blob/output/github-contribution-grid-snake.svg)
 ## 📫 Connect With Me
 
 - 💻 [GitHub](https://github.com/hrutavmodha)
