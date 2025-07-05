@@ -39,7 +39,7 @@ I love building full-stack web apps, working on AI models, and experimenting wit
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hrutavmodha)](https://github.com/ryo-ma/github-profile-trophy)
 ## 📫 Connect With Me
 
 - 💻 [GitHub](https://github.com/hrutavmodha)
