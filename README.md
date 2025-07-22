@@ -7,7 +7,7 @@ I'm a passionate and fast-moving developer currently pursuing a Diploma in Compu
 
 I love building full-stack web apps, working on AI models, and experimenting with cutting-edge tech.
 
-- 🌐 Currently working on: **DeskTop Assistant** and **E-Commerce Website**
+- 🌐 Currently working on: **PDF Merger**
   
 - 🌱 Learning: *Data Analysis*
   
