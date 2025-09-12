@@ -7,7 +7,7 @@ I'm a passionate and fast-moving developer currently pursuing a Diploma in Compu
 
 I love building full-stack web apps, working on AI models, and experimenting with cutting-edge tech.
 
-- ⌛️ Currently working on: **SSR and SSG based Blog App with React**
+- ⌛️ Currently working on: **SSR and SSG based Blog App custom JSX runtime in server!**
   
 - 💡 Fun Fact: I treat my development projects like experiments, not assignments.
   
