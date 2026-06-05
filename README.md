@@ -9,7 +9,7 @@ I love building full-stack web apps, working on AI models, and experimenting wit
 
 Contributor to [**Ripple TS**](https://github.com/Ripple-TS/ripple)
 
-Currently researching and developing the Deterministic Mathematical Framework for calculating revised targets for rain-affected cricket matches. Track it [_here_](https://github.com/hrutavmodha/par-score-calculator-research)
+Currently researching and developing the **Deterministic Mathematical Framework for calculating revised targets** for rain-affected cricket matches. Track it [_here_](https://github.com/hrutavmodha/par-score-calculator-research)
   
 ## 💻 Tech Stack
 
