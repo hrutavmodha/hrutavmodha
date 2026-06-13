@@ -8,6 +8,8 @@ I'm a passionate and fast-moving developer currently pursuing a Diploma in Compu
 I love building full-stack web apps, working on AI models, and experimenting with cutting-edge tech.
 
 ## Open Source Contributions
+
+Contributed to 2 OSS projects:
 1. [**Ripple TS**](https://github.com/Ripple-TS/ripple)
 
 2. [**Rux Programming Language**](https://github.com/rux-lang/Rux)
