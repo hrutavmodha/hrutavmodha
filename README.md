@@ -7,8 +7,12 @@ I'm a passionate and fast-moving developer currently pursuing a Diploma in Compu
 
 I love building full-stack web apps, working on AI models, and experimenting with cutting-edge tech.
 
-Contributor to [**Ripple TS**](https://github.com/Ripple-TS/ripple)
+## Open Source Contributions
+1. [**Ripple TS**](https://github.com/Ripple-TS/ripple)
 
+2. [**Rux Programming Language**](https://github.com/rux-lang/Rux)
+
+### Recent Personal Project
 Currently researching and developing the **Deterministic Mathematical Framework for calculating revised targets** for rain-affected cricket matches. Track it [_here_](https://github.com/hrutavmodha/par-score-calculator-research)
   
 ## 💻 Tech Stack
