@@ -13,9 +13,6 @@ Contributed to 2 OSS projects:
 1. [**Ripple TS**](https://github.com/Ripple-TS/ripple)
 
 2. [**Rux Programming Language**](https://github.com/rux-lang/Rux)
-
-### Recent Personal Project
-Currently researching and developing the **Deterministic Mathematical Framework for calculating revised targets** for rain-affected cricket matches. Track it [_here_](https://github.com/hrutavmodha/par-score-calculator-research)
   
 ## 💻 Tech Stack
 
